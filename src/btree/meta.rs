@@ -1,4 +1,4 @@
-use zerocopy::{AsBytes, ByteSlice, ByteSliceMut, FromBytes, LayoutVerified};
+use zerocopy::{AsBytes, ByteSlice, FromBytes, LayoutVerified};
 
 use crate::disk::PageId;
 

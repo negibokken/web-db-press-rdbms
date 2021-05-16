@@ -1,5 +1,5 @@
 [package]
-name = "web-db-press-rdbms"
+name = "relly"
 version = "0.1.0"
 authors = ["bokken <negibokken@gmail.com>"]
 edition = "2018"
